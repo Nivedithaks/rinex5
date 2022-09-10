@@ -12,3 +12,11 @@ if st.button('PREDICT'):
   st.title(op[0])
   
            
+
+    
+    
+    
+    
+      
+      
+        
